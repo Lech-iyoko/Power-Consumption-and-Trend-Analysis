@@ -29,7 +29,7 @@ This project analyzes household energy consumption data to forecast energy usage
 
 * Model Performance
   - Random Forest Regression Results:
-    - Achieved an MSE of 0.0117 and an R-squared value of 0.754, indicating the model’s effectiveness in predicting energy consumption.
+    - Achieved an MSE of 0.013 and an R-squared value of 0.74, indicating the model’s effectiveness in predicting energy consumption.
     - Feature importance analysis revealed that sub-metering data and hour are the most significant contributors to energy consumption predictions.
 
 * Visualizations
